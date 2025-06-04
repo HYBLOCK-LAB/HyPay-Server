@@ -32,3 +32,4 @@ coverage/
 # Misc
 *.sublime-workspace
 *.sublime-project
+.vercel

@@ -6,4 +6,10 @@ router.post('/log', (req, res) => {
   res.json({ status: 'Logged' });
 });
 
+router.get('/xumm-api-key', (req, res) => {
+  res.json({
+    apiKey: process.env.XUMM_API_KEY,
+  });
+});
+
 module.exports = router;

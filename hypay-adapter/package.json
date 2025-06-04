@@ -1,6 +1,6 @@
 {
   "name": "hypay-adapter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publishConfig": {
     "access": "public",
     "tag": "alpha"
@@ -14,14 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/yourrepo.git"
+    "url": "git+https://github.com/HYBLOCK-LAB/Hypay"
   },
+  "description": "Provides an XRPL payment adapter.",
   "keywords": [
     "xrpl",
-    "wallet",
     "gemwallet",
-    "xumm",
-    "typescript"
+    "xumm"
   ],
   "license": "MIT",
   "devDependencies": {
