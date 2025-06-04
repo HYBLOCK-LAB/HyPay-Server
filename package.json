@@ -21,7 +21,7 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "hypay-adapter": "file:./hypay-adapter",
+    "hypay-adapter": "^0.1.2",
     "mongoose": "^8.15.1",
     "querystring": "^0.2.1",
     "xumm-sdk": "^1.11.2"
