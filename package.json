@@ -24,7 +24,10 @@
     "hypay-adapter": "^0.1.2",
     "mongoose": "^8.15.1",
     "querystring": "^0.2.1",
-    "xumm-sdk": "^1.11.2"
+    "xumm-sdk": "^1.11.2",
+    "uuid": "^11.1.0",
+    "xrpl": "^4.2.5",
+    "xumm": "^1.8.0"
   },
   "engines": {
     "node": "20.x"
